@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir_atual=${PWD}
+
 echo -e '1°)">" Redireciona a saída padrão do comando para um arquivo, sobrescrevendo o mesmo.\n'
 echo -e ' Exemplo de uso: listar o diretório atual, depois enviar para um arquivo "ls > lista_arq_dir.txt", \ndepois listar um diretório qualquer por exemplo o /tmp e enviar a saída do comando para o mesmo arquivo."ls /tmp > lista_arq_dir.txt \n"'
 
