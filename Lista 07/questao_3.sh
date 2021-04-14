@@ -7,13 +7,6 @@ for i in *; do
   fi
 done
 
-echo -e "\n LINKS\n"
-for i in *; do  
-  if test -h $i; then
-    ls $i
-  fi
-
-done
 
 echo -e " \n FILES\n"
 for i in *; do  
@@ -26,3 +19,12 @@ for i in *; do
   fi
 
 done
+
+echo -e "\n LINKS\n"
+for i in *; do  
+  if test -h $i; then
+    ls $i
+  fi
+
+done
+
