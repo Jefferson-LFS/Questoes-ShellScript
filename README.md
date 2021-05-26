@@ -23,3 +23,7 @@ Este repositório é destinado a resolução de questões envolvendo Progamaçã
 
 *[Lista 12 - Awk](https://github.com/Jefferson-LFS/Questoes-ShellScript/tree/main/Lista%2012)*
 
+*[Lista 13 - Modularização](https://github.com/Jefferson-LFS/Questoes-ShellScript/tree/main/Lista%2013)*
+
+
+
