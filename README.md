@@ -25,5 +25,5 @@ Este repositório é destinado a resolução de questões envolvendo Progamaçã
 
 *[Lista 13 - Modularização](https://github.com/Jefferson-LFS/Questoes-ShellScript/tree/main/Lista%2013)*
 
-
+*[Lista 14 - Arrays e Strings](https://github.com/Jefferson-LFS/Questoes-ShellScript/tree/main/Lista%2014)*
 
