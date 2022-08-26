@@ -1,5 +1,5 @@
 # ShellScript   
-Este repositório é destinado a resolução de questões envolvendo Progamação de Scripts
+Este repositório é destinado a resolução de questões envolvendo Programação de Scripts
 
 
 ##### Segue abaixo os links para as questões das listas:
